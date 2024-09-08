@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "176345767974",
+    "firebase_url": "https://wahiddarbar-ddad4.firebaseio.com",
+    "project_id": "wahiddarbar-ddad4",
+    "storage_bucket": "wahiddarbar-ddad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176345767974:android:11ea0cc793ac59ad3dc6e7",
+        "android_client_info": {
+          "package_name": "com.wahiddarbar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176345767974-5b9iiolm9ih89p0an3j4r7mrdof7uprv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wahiddarbar.app",
+            "certificate_hash": "a73b609988797865f6fff3f36567a9b788abd466"
+          }
+        },
+        {
+          "client_id": "176345767974-j27qqp9re0c7rcdblcg6bld9alc0d1k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wahiddarbar.app",
+            "certificate_hash": "56bb6f7f3e050d81f485dc7540621541844fc2d6"
+          }
+        },
+        {
+          "client_id": "176345767974-k6n39bfr9efkr13n17aa4sfr7gitrmoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wahiddarbar.app",
+            "certificate_hash": "cf7f6dd7a62e6b0215c6bcc80c99639921e0e70e"
+          }
+        },
+        {
+          "client_id": "176345767974-nf5l0bp5et2v6ckcog9lnr1ht3crl2he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wahiddarbar.app",
+            "certificate_hash": "cea12f490ed685b0dfd420cd07c0e9c4ae20d47b"
+          }
+        },
+        {
+          "client_id": "176345767974-2c3neanp10s2h2n442ickul1t9n04d6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpdle9BATAZXhqqJj9tzkvGs-jc0u_pVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176345767974-2c3neanp10s2h2n442ickul1t9n04d6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
